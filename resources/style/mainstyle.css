@@ -9,10 +9,28 @@ html, body {
 .mainhead h1 {
 	font-size: 70px;
 	font-weight: bold;
-	color: white;
 }
 
 .mainhead p a {
 	font-size: 18px;
 	color: white;
+}
+.mainhead h2 {
+	font-size: 23px;
+	font-weight: bold;
+}
+.content h3 {
+	font-size: 23px;
+	font-weight: bold;
+}
+.content p {
+	font-size: 14px;
+}
+.footer p, p a {
+	background-color: dimgray;
+	color: white;
+	text-align: left;
+}
+.footer span {
+	font-size: 11px;
 }
