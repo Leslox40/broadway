@@ -1,0 +1,18 @@
+html, body {
+	font-family: Helvetica;
+	text-align: center;
+}
+.mainhead {
+	background-image: url("../images/building.png");
+	color: white;
+}
+.mainhead h1 {
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+}
+
+.mainhead p a {
+	font-size: 18px;
+	color: white;
+}
