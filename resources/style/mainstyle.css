@@ -2,6 +2,15 @@ html, body {
 	font-family: Helvetica;
 	text-align: center;
 }
+h2 {
+	font-size: 23px;
+	font-weight: bold;
+}
+
+a {
+	font-size: 18px;
+	color: white;
+}
 .mainhead {
 	background-image: url("../images/building.png");
 	color: white;
@@ -11,11 +20,11 @@ html, body {
 	font-weight: bold;
 }
 
-.mainhead p a {
+/*.mainhead p a {
 	font-size: 18px;
 	color: white;
 }
-.mainhead h2 {
+*/.mainhead h2 {
 	font-size: 23px;
 	font-weight: bold;
 }
@@ -26,7 +35,7 @@ html, body {
 .content p {
 	font-size: 14px;
 }
-.footer p, p a {
+.footer p {
 	background-color: dimgray;
 	color: white;
 	text-align: left;
